@@ -1,0 +1,48 @@
+{
+  "cats": {
+    "name": "cats",
+    "followers": 25000,
+    "following": 5,
+    "posts": [
+      {
+        "image": "https://tse1.mm.bing.net/th/id/OIP.w6g4BqEHW2z2Jqvn9BoD8gHaEK?pid=Api&h=220&P=0",
+        "likes": 200,
+        "comments": 17
+      },
+      {
+        "image": "https://tse1.mm.bing.net/th/id/OIP.XEIAUqfBYFrwH-PLpcEMgAHaGQ?pid=Api&h=220&P=0",
+        "likes": 312,
+        "comments": 19
+      },
+      {
+        "image": "https://tse3.mm.bing.net/th/id/OIP.3eOjJ4bC-wJ7f08V-SEPpAHaFj?pid=Api&h=220&P=0",
+        "likes": 1065,
+        "comments": 200
+      }
+    ]
+  },
+
+  "dogs": {
+    "name": "dogs",
+    "followers": 75000,
+    "following": 150,
+    "posts": [
+      {
+        "image": "https://tse3.mm.bing.net/th/id/OIP.4WykTR3uEjUpDygBORzuOgHaE7?pid=Api&h=220&P=0",
+        "likes": 3000,
+        "comments": 41
+      },
+      {
+        "image": "https://tse3.mm.bing.net/th/id/OIP.eYHbHpBekRCWFs17oHq7TQHaEo?pid=Api&h=220&P=0",
+        "likes": 2500,
+        "comments": 32
+      },
+      {
+        "image": "https://tse4.mm.bing.net/th/id/OIP.3Ppqj7ScY8vBjb10SrwqCAHaEi?pid=Api&h=220&P=0",
+        "likes": 500,
+        "comments": 6
+      }
+    ]
+  }
+}
+
